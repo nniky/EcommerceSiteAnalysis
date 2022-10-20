@@ -1,6 +1,6 @@
 # EcommerceSiteAnalysis
 I assume the position of an Ecommerce database analyst and explore a dataset from a fictitious online retailer who has just launched its first product.
-Through various SQL querying I access and explore the database, perform mission critical analyses and Analyze and optimize the business’ marketing channels, website, and product portfolio.
+Through various SQL queries I access and explore the database, perform mission critical analyses and analyze and optimize the business’ marketing channels, website, and product portfolio.
 
 The database consists of six related tables which contain ecommerce data about website activity, products, orders and refunds.
 
